@@ -1,0 +1,23 @@
+Sum
+Divide
+Test1
+Calculator
+Multiply
+Multiplicationtable
+Test2
+Test3
+Test4
+Circle
+Average3
+Rectangle
+Swap2
+[imp] Binaryadd
+Binarymulti
+Sumofdigit
+[IMP] Hexagon = used math class so must refer later.
+Polygon
+Dbe- distance between two points on the surface of earth
+rvestr
+lsnc: Program to count letters, spaces, numbers and other characters of input string.
+U3dn- to create and display unique three-digit number using 1, 2, 3, 4. Also count how many three-digit numbers are there. 
+
